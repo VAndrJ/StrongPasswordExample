@@ -6,6 +6,7 @@
 
 
 iOS strong password suggestion issue MRE.
+Go to "Signing & Capabilities" and replace the required fields for suggestions.
 
 
 ![Issue example](https://raw.githubusercontent.com/VAndrJ/StrongPasswordExample/master/Resources/issue_example.gif)
